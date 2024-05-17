@@ -1,6 +1,6 @@
 {
   "name": "@moonjot/moon-reflect-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Moon sample plugin for Moon",
   "main": "./dist/index.js",
   "dependencies": {
